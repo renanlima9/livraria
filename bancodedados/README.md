@@ -1,0 +1,1 @@
+Pasta destinada aos arquivos do banco de dados da livraria.
